@@ -5,3 +5,9 @@ Is your python, R, or Matlab code taking forever to run on your laptop? If so, y
 This RC Quick Byte* provides an example-based introduction to the fundamentals of parallelization, to help you determine if parallelization may benefit your research workflow. Future modules in the CURC Parallelization series will cover parallelization for specific applications and languages.
 
 _What’s an RC Quick Byte?: An RC Quick Byte is a 20-30 minute session intended to provide essential information about a specific topic. You can expect to leave a 'Quick Byte' with the information you need to apply a tool, service, or concept._
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
